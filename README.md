@@ -30,11 +30,3 @@ Feel free to contribute! Fork the repository and submit a pull request.
 
 ## 📄 License
 This project is licensed under the **GPL-2.0+**.
-
----
-
-### **Step 4: Commit and Push the README.md File**
-```sh
-git add README.md
-git commit -m "Added README file"
-git push origin main
