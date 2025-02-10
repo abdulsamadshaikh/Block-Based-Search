@@ -1,0 +1,20 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "create-block/block-based-search",
+	"version": "0.1.0",
+	"title": "Block Based Search",
+	"category": "widgets",
+	"icon": "search",
+	"description": "Block Based Search is a lightweight WordPress block that enables real-time post search via the REST API, delivering instant results for a seamless user experience.",
+	"example": {},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "block-based-search",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"viewScript": "file:./view.js",
+	"render": "file:./render.php"
+}

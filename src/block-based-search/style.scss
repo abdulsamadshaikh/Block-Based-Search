@@ -1,0 +1,18 @@
+.block-based-search-widget {
+	background-color: #21759b;
+	color: #fff;
+	padding: 10px 10px;
+	display: flex;		
+	align-items: center;
+	justify-content: center;
+	gap: 20px;
+	svg.search-icon {
+		fill: #fff;
+	}
+	p {
+		margin: 0;
+	}
+}
+.block-based-search input {
+    padding: 4px 8px;
+}

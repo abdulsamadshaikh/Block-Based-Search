@@ -1,0 +1,22 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/block-based-search/style.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************/
+.block-based-search-widget {
+  background-color: #21759b;
+  color: #fff;
+  padding: 10px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.block-based-search-widget svg.search-icon {
+  fill: #fff;
+}
+.block-based-search-widget p {
+  margin: 0;
+}
+
+.block-based-search input {
+  padding: 4px 8px;
+}
